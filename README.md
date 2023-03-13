@@ -5,7 +5,7 @@
 
 Cheked is a to do list app made on xcode. In this project my goal was to try some different sdk's and bulding UI primarily on interface builder.
 
-- I used _Realm_ for database. Becouse I wanted to learn and experiment with alternatives of sqlite and core data. 
+- I used _Realm_ for database. Because I wanted to learn and experiment with alternatives of sqlite and core data. 
 - All of the transitions in app is made with _Hero_.
 - Swipe and delete action is made with _SwipeCellKit_.
 
